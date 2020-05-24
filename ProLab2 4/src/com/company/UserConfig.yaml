@@ -1,0 +1,4 @@
+lang_code: "tr"
+get_cities: "Lütfen Kocaeliden gidilecek şehirlerin plaka numaralarını giriniz"
+error_input: "Plaka numaralarını hatalı girdiniz! Hatırlatma plaka numaraları 1 ile 81 arası olup,
+ en fazla 10 şehir gire bilirsiniz"
